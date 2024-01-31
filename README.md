@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+MacOS install:
+- homebrew
+- oh-my-zsh
+- eza
+- tmux
+- neovim
+- 
+
 <!--
 **franzli72/franzli72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
